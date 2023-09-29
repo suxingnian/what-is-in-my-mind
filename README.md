@@ -1,2 +1,2 @@
 # what-is-in-my-mind
-to say some when things happened
+to say something when things happened
